@@ -3,7 +3,7 @@ App name:       Mossy Truffle
 Package:        com.mossyfluxen.mossytruffle
 Expo owner:     MOSSY-FLUXEN
 Expo slug:      mossy-fluxen
-Version:        1.0.0 (versionCode 1)
+Version:        1.0.0 (versionCode 2)
 Target/compile: SDK 36   Min SDK: 24
 Permissions:    android.permission.VIBRATE
 Studio motto:   Where quiet woods come alive.
